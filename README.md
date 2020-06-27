@@ -8,11 +8,11 @@ d) Request the user for three integers and output whether any of them are equal.
 
 Write a C (main) program to provide the above functions as options to the user using switch statement and perform the functions accordingly.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
+#########################################################################
 
 Q2) Write a program which reads characters from a string and calculates the number of vowels in it. It should print the string and the number of vowels in it.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
+#########################################################################
 
 Q3) Write a C program:
 (a) To generate 10 random numbers between -1.5 and 1.5 and writes them in a file ran.dat.
